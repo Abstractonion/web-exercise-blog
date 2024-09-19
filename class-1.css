@@ -1,0 +1,28 @@
+h1{
+    color: red;
+}
+
+p{
+    color: blueviolet;
+}
+
+p ~ p{
+    color: orange;
+}
+
+*{
+    font-weight: normal;
+    margin: 0px;
+    text-decoration: none;
+    padding: 0px;
+    color: inherit
+}
+
+::selection{
+    color: antiquewhite;
+    background-color: brown;
+}
+
+::first-letter{
+    font-weight: 700;
+}
