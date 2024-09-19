@@ -15,7 +15,13 @@ p ~ p{
     margin: 0px;
     text-decoration: none;
     padding: 0px;
-    color: inherit
+    color: inherit;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+::first-letter{
+    font-weight: 700;
 }
 
 ::selection{
