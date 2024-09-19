@@ -20,7 +20,7 @@ p ~ p{
 }
 
 
-::first-letter{
+h2::first-letter,h1::first-letter{
     font-weight: 700;
 }
 
