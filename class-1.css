@@ -22,7 +22,3 @@ p ~ p{
     color: antiquewhite;
     background-color: brown;
 }
-
-::first-letter{
-    font-weight: 700;
-}
