@@ -1,0 +1,13 @@
+/*class selectors use . symbol*/
+
+.one{
+    color: blueviolet;
+}
+
+.two{
+    color: fuchsia;
+}
+
+p.one{
+    background-color: orchid;
+}
