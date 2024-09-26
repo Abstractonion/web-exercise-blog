@@ -11,3 +11,8 @@
 p.one{
     background-color: orchid;
 }
+
+.one.two{
+    background-color: brown;
+    color: beige;
+}
